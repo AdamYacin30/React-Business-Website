@@ -63,7 +63,7 @@ const Navbar = () => {
     <div className="nm-container">
     {/*Logo*/}
     <div className="n-logo">
-                    <img src="logo.png" alt="Logo" style={{ height: '50px' }} />
+                    Wallstopia
                 </div>
 
     {/*menu icon*/}

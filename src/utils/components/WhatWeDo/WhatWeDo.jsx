@@ -56,7 +56,7 @@ const WhatWeDo = () => {
                         Actionable data insights by connecting revenue, marketing and social media platforms                                
                                 </span>*/} 
                     <span className='des'>
-                        Wallstopia has deep expertise in partnering with companies in the [niche] industry. We are known for 
+                        Wallstopia has deep expertise in partnering with companies in a wide range of industries. We are known for 
                         our proven methods that take turn your social media into a predictable revenue source that help our clients businesses.
                     </span>
                     </motion.div>

@@ -17,7 +17,9 @@
     gap: 1.5rem;
     align-items: center;
     justify-content: center;
-    width: 75rem;
+    width: 100%; /* Ensure full width for responsiveness */
+    text-align: center; /* Center align text */
+    padding: 0 1rem;
 }
 
 .wwd-blocks{
